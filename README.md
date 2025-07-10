@@ -62,7 +62,7 @@ Exploited SUID nmap --interactive to escalate to root
 ## 5. Captured All Flags
 
   ```bash
-cat /root/key-3-of-3.txt
+cat /root/key-2-of-3.txt
   ```
 
   ```bash

@@ -1,4 +1,4 @@
-# HTB – Mr. Robot Walkthrough
+# VulnHub – Mr. Robot Walkthrough
 
 ## Target IP
 `10.129.1.17`
